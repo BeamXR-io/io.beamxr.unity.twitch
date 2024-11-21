@@ -1,0 +1,31 @@
+{
+  "name": "io.beamxr.twitch.chat",
+  "displayName": "BeamXR Twitch Integration",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "A package for handling Twitch integration with BeamXR.",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.editorcoroutines": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "io.beamxr.unity.streaming": "0.5.7"
+  },
+  "keywords": [
+    "video",
+    "eventing",
+    "streaming",
+    "webrtc"
+  ],
+  "author": {
+    "name": "BeamXR",
+    "email": "support@beamxr.io"
+  },
+  "samples": [
+	{
+      "displayName": "Chat Example Scene",
+      "description": "Example scene showing Twitch chat integration",
+      "path": "Samples~/Chat"
+    }
+  ]
+}
