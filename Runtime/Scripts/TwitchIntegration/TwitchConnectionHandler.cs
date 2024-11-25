@@ -49,7 +49,7 @@ namespace BeamXR.Twitch
                 {
                     case BeamEnvironment.Production:
                         _twitchClientId = "f76ce1kl9puf6n0de5cf1lcjpgftj0";
-                        _portalUrl = "https://portal-uat.beamxr.io";
+                        _portalUrl = "https://portal.beamxr.io";
                         break;
                     case BeamEnvironment.Staging:
                     case BeamEnvironment.Development:
