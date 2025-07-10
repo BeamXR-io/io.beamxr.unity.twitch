@@ -1,7 +1,7 @@
 {
   "name": "io.beamxr.unity.twitch",
   "displayName": "BeamXR Twitch Chat",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "unity": "2020.3",
   "description": "A package for handling Twitch chat integration with BeamXR.",
   "dependencies": {
